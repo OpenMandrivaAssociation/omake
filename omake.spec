@@ -1,5 +1,5 @@
 %define name omake
-%define ver 0.9.8.1
+%define ver 0.9.8.4
 %define index 1
 %define release %mkrel 1
 
