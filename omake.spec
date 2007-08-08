@@ -1,6 +1,6 @@
 %define name omake
-%define ver 0.9.8.4
-%define index 1
+%define ver 0.9.8.5
+%define index 2
 %define release %mkrel 1
 
 %define nobootstrap %{?_without_bootstrap:1}%{?!_without_bootstrap:0}
@@ -10,7 +10,7 @@ Version: %{ver}_%{index}
 Release: %release
 Summary: The omake build system
 URL: http://omake.metaprl.org/
-Source: http://omake.metaprl.org/downloads/%{name}-%{ver}-%{index}.tar.bz2
+Source: http://omake.metaprl.org/downloads/%{name}-%{ver}-%{index}.tar.gz
 License: GPL
 Group: Development/Other
 BuildRoot: %{_tmppath}/%{name}-root
