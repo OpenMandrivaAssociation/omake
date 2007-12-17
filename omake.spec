@@ -13,7 +13,6 @@ URL: http://omake.metaprl.org/
 Source: http://omake.metaprl.org/downloads/%{name}-%{ver}-%{index}.tar.gz
 License: GPL
 Group: Development/Other
-BuildRoot: %{_tmppath}/%{name}-root
 BuildRequires: autoconf, ocaml, make, fam-devel
 BuildRequires: ncurses-devel
 %if %nobootstrap
