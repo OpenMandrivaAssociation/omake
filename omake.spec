@@ -22,7 +22,6 @@ BuildRequires: omake
 
 
 %description
-
 OMake is a build system, similar to GNU make, but with many additional
 features, including:
 - Support for large projects spanning multiple directories;
