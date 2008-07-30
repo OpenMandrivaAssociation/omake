@@ -1,7 +1,7 @@
 %define name omake
 %define ver 0.9.8.5
 %define index 2
-%define release %mkrel 1
+%define release %mkrel 3
 
 %define nobootstrap %{?_without_bootstrap:1}%{?!_without_bootstrap:0}
 
