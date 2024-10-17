@@ -9,7 +9,7 @@ Name: %name
 Version: %{ver}_%{index}
 Release: %release
 Summary: The omake build system
-URL: http://omake.metaprl.org/
+URL: https://omake.metaprl.org/
 Source: http://omake.metaprl.org/downloads/%{name}-%{ver}-%{index}.tar.gz
 License: GPL
 Group: Development/Other
